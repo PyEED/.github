@@ -9,9 +9,6 @@ PyEED is collaborative project on developing a sustainable, re-usable toolbox fo
 Have a look at the [PyEED datamodel](https://github.com/PyEED/pyeed/blob/main/specifications/model.md). This data model roots the base for transforming bioinfarmatical workflows from file-centered to datamodel-centered.
 Alternatively, check out the corresponding [UML diagram](https://github.com/PyEED/pyeed/blob/main/pyEED/schemes/pyeed_schema.md)
 
+### Take a look at the examples
 
-## 🛠️ List of Tools
-
-** coming soon **
-
-
+Check out the [example notebooks](https://github.com/PyEED/pyeed/blob/main/examples/), demonstrating the usage of th pyEED library.
